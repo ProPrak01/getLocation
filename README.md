@@ -1,2 +1,2 @@
-##install dependencies by->
-### npm i 
+###install dependencies by->
+#### npm i 
